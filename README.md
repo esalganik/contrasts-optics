@@ -1,30 +1,13 @@
-# Arctic Sea Ice Optical Properties
+# Orthomosaic plotting script
 
-MATLAB scripts used for visualization and analysis supporting the manuscript:
+Simple MATLAB script to plot orthomosaic subsets and overlay a brightness-derived albedo transect.
 
-"Contrasting Optical Properties of Different Arctic Sea Ice Regimes"
+Developed for:
 
-Authors:
-Florian Zimmer,
-Ran Tao,
-Torben Blei,
-Evgenii Salganik,
-Marcel Nicolaus
+Contrasting Optical Properties of Different Arctic Sea Ice Regimes
+(F. Zimmer, R. Tao, T. Blei, E. Salganik, M. Nicolaus)
 
-## Contents
-
-- plot_orthomosaic.m
-  Plot orthomosaic subsets and overlay brightness-derived albedo transects.
-
-## Requirements
-
+Requirements:
 - MATLAB
 - Mapping Toolbox
-- Optional: Crameri colormaps (e.g., buda.mat)
-
-## Citation
-
-If you use this code, please cite:
-
-Zimmer, F., Tao, R., Blei, T., Salganik, E., & Nicolaus, M.
-"Contrasting Optical Properties of Different Arctic Sea Ice Regimes"
+- Optional: buda.mat colormap
