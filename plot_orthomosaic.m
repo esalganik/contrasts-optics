@@ -24,7 +24,7 @@ fig_height_in = 4;           % exported figure height [in]
 
 export_dpi = 300;            % export resolution [dpi]
 
-output_file = 'Orthomosaic_1B.tif';
+output_file = 'orthomosaic_1B.tif';
 
 % Albedo transect
 
